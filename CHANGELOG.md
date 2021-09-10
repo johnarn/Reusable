@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## WIP
+
+* Fix Xcode 12.5 warnings about the class keyword for protocol inheritance that is deprecated.  
+  [@johnarn](https://github.com/johnarn)
+  [@AliSoftware](https://github.com/AliSoftware)
+  [#113](https://github.com/AliSoftware/Reusable/pull/113)
+
 ## 4.1.1
 
 * Update the README with up-to-date Swift versions and Installation Instructions.  
